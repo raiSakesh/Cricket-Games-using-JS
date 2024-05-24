@@ -1,0 +1,11 @@
+* {
+  text-align: center;
+}
+.button {
+  block-size: 30px;
+  inline-size: auto;
+  margin: 3px;
+  background-color: black;
+  color: aliceblue;
+  border-radius: 5px;
+}
